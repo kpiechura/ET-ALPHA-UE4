@@ -9,3 +9,5 @@ This is first iteration project for FPP adventure game, using UE4 and C# bluepri
 ## Scenes and lighting
 
 You can see first iterations for lighting calculations on basic scene in Wiki section.
+
+https://imgur.com/a/qv09iH4
